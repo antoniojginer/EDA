@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CadenaADN
+comment0.text=\r\n\ Objeto\ CadenaADN,\ contiene\ un\ array\ de\ caracteres\ e\ implementa\ a\ Complarable.\r\n\ \r\n\ @author\ (EDA)\ \r\n\ @version\ (Curso\ 2018-2019)\r\n
+comment1.params=s
+comment1.target=CadenaADN(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ tipo\ CadenaADN\r\n\ Dado\ un\ String\ con\ los\ caracteres\ que\ representan\ las\ bases\ nitrogenadas,\ \r\n\ los\ guarda\ en\ un\ array\ de\ caracteres\ de\ la\ longitud\ adecuada.\r\n
+comment2.params=otra
+comment2.target=int\ compareTo(CadenaADN)
+comment2.text=\r\n\ M\u00C3\u00A9todo\ de\ comparaci\u00C3\u00B3n\ de\ Cadenas\ de\ ADN,\ la\ comparaci\u00C3\u00B3n\ se\ realiza\ de\ la\ manera\ \r\n\ usual\ a\ como\ se\ har\u00C3\u00ADa\ con\ Strings\r\n\ \r\n\ @param\ \ CadenaADN\r\n\ @return\ entero\ de\ valor\ negativo\ si\ la\ cadena\ this\ es\ anterior\ lexicogr\u00C3\u00A1ficamente\ a\ \r\n\ la\ cadena\ otra,\ positivo\ si\ es\ mayor\ y\ cero\ si\ es\ id\u00C3\u00A9ntica.\r\n
+numComments=3

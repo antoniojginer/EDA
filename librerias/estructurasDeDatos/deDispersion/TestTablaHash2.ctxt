@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TestTablaHash2
+comment0.text=\r\n\ Clase\ para\ probar\ el\ c??digo\ de\ los\ m??todos\ histo\ y\ deviacionTipica\r\n\ \r\n\ @author\ (EDA)\ \r\n\ @version\ (Febrero\ 2016)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=boolean\ testHisto()
+comment2.text=\r\n\ Comprueba\ el\ metodo\ histograma\ de\ TablaHash\r\n\ @return\ \ True\ si\ el\ metodo\ es\ correcto\r\n
+comment3.params=t
+comment3.target=java.lang.String\ miHistograma(TablaHash)
+comment4.params=
+comment4.target=boolean\ testDesvTipica()
+comment5.params=t
+comment5.target=double\ miDesviacionTipica(TablaHash)
+numComments=6
